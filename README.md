@@ -1,25 +1,16 @@
-# Codebase Combiner v1.0.0
+# Codebase Combiner
 
-## Single Executable with User-Controlled Updates
+Professional desktop application for combining code files.
 
-### Features:
-- ✅ Recursive Directory Scanning
-- ✅ Smart Folder Filtering  
-- ✅ Organized Output by Folder Structure
-- ✅ User-Controlled Updates
-- ✅ Professional Interface
+## Download
+- [Latest Release](https://github.com/troinfo/codebase_combiner-releases/releases/latest)
 
-### Usage:
-1. Run CodebaseCombiner.exe
-2. Select input folder (scans all subdirectories)
-3. Choose files to include
-4. Set output location
-5. Process files
+## Support
+- [Report Issues](https://github.com/troinfo/codebase_combiner-releases/issues)
+- [Feature Requests](https://github.com/troinfo/codebase_combiner-releases/issues)
 
-### Updates:
-- Checks for updates on startup
-- You choose when to update
-- No forced updates
-- Smart reminders
-
-For support: https://github.com/troinfo/codebase_combiner
+## Features
+- Recursive directory scanning
+- Smart folder filtering
+- User-controlled updates
+- Professional interface
